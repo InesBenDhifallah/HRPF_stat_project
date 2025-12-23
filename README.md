@@ -25,7 +25,7 @@ Le travail a été réalisé en R et est documenté avec les codes, graphiques, 
 
 - R 4.3+ ou version récente
 - RStudio (optionnel mais recommandé)
-- Packages R : `ggplot2`, `dplyr`, `readr`, `stats`
+- Packages R : `ggplot2`, `dplyr`, `readr`, `stats`, `openxlsx`, `readxl`, `psych`, `corrplot`, `MASS`, `naniar`, `tidyr`, `gridExtra`
 
 ## 🚀 Installation
 
